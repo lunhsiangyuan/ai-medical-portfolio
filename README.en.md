@@ -226,7 +226,7 @@ All AI-assisted from design to deployment.
 
 ### 🦞 OpenClaw — Multi-Agent AI Management Platform
 
-Self-built AI Agent management platform deployed on Mac Mini, running 24/7.
+Self-built AI Agent management platform deployed on Mac Mini, running 24/7. This is the future of AI workforce: deploy a 24/7 AI employee for every knowledge worker — handling documents, responding to messages, organizing data, tracking progress. Imagine equipping every faculty member at Fei Tian Academy with a dedicated AI assistant that never sleeps.
 
 ```
 ┌──────────────────────────────────────────────────────────┐
