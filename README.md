@@ -5,7 +5,7 @@
 **袁倫祥 Lun-Hsiang Yuan, MD PhD**
 臺大醫院雲林分院泌尿部 副主任｜教育部部定助理教授
 
-國立陽明大學醫學系畢業，歷任台北榮總、高雄榮總、義大癌治療醫院泌尿科主治醫師。曾赴韓國延世大學進修達文西機器人手術，累積超過 1,000 例機器人手術經驗，為 Senhance 手術系統認證 Proctor。國立成功大學醫學工程博士（2020–2025），論文主題：LLM 在攝護腺癌分期與分類的應用。
+國立陽明大學醫學系畢業，歷任台北榮總、高雄榮總、義大癌治療醫院泌尿科主治醫師。曾赴韓國延世大學進修達文西機器人手術，累積超過 1,000 例機器人手術經驗，為 Senhance 手術系統認證 Proctor。國立成功大學醫學工程博士（2020–2025），博士論文：[The In-depth Comparative Analysis of Four Large Language AI Models for Risk Assessment and Information Retrieval from Multi-Modality Prostate Cancer Work-up Reports](slides/PhD-Thesis-LLM-Prostate-Cancer.docx)——比較四個 LLM（GPT-4-turbo、Claude-3-opus、Gemini-pro、GPT-3.5-turbo）在 350 例第四期攝護腺癌多模態報告中的風險評估與資訊擷取表現。
 
 專長：達文西機器人手術、泌尿腫瘤學、微創手術、AI 醫療系統開發
 
