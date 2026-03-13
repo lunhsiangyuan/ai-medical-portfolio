@@ -1,3 +1,5 @@
+[English](README.en.md) ｜ 繁體中文
+
 # AI × 醫學：從臨床到研究的 AI 實踐
 
 **袁倫祥 Lun-Hsiang Yuan, MD PhD**
@@ -85,9 +87,12 @@
 │                                                                    │
 │  🌐 已上線系統                                                     │
 │                                                                    │
-│  • 醫師個人網站 + AI Chatbot（即時 Telegram 推播）                 │
+│  • 遠距醫療平台 — Stateless 架構，HIPAA 合規設計                  │
+│  • 醫師個人網站 + AI Chatbot（Gemini + Telegram 即時推播）         │
 │  • Middletown 城市重建計畫網站（13 頁、三語 i18n）                 │
 │  • 活動報名系統（三語表單 → Google Sheets）                        │
+│  • Bloomberg 風格金融分析終端（72 模組、2,844 測試）               │
+│  • Pixel Office — Agent Team 即時監控儀表板                        │
 │  • 餐廳營運分析（帳務、預測、VIP 分析）                            │
 │  • NYSED 先例追蹤（自動爬蟲 + GitHub 月更）                       │
 │                                                                    │
@@ -180,6 +185,56 @@ AI 在法規文本分析的跨領域應用：
 | O-1A 簽證 | Immigration and Nationality Act | 8 判準覆蓋分析 + 文件自動化 |
 | 先例研究 | Board of Regents 歷年決議 | 48 筆先例資料庫，自動月更新 |
 | FTC 合併法規 | Title IV PPA / TVPRA | 致命障礙識別 + 可行性分析 |
+
+---
+
+### 🌐 已上線 Web 系統
+
+全部由 AI 輔助開發，從設計到部署。
+
+| 系統 | 技術亮點 | 連結 |
+|------|----------|------|
+| 遠距醫療平台 | Stateless 架構（零 PHI 儲存）、HIPAA 合規、三語 i18n | Private |
+| 醫師個人網站 + AI Chatbot | Gemini Flash 驅動、Telegram 即時推播、7 層安全防護 | [Live](https://dr-website-react.vercel.app) |
+| Middletown 城市重建計畫 | 13 頁、三語（EN/ZH/JA）、多受眾展示 | [GitHub](https://github.com/lunhsiangyuan/reviving-hudson-valley) |
+| Bloomberg 風格金融終端 | 72 模組、2,844 測試、Bun + TypeScript | [GitHub](https://github.com/lunhsiangyuan/fin-terminal) |
+| Pixel Office 監控儀表板 | Agent Team 即時動畫監控 | [GitHub](https://github.com/lunhsiangyuan/agent-monitor) |
+| 醫學英語訓練系統 | FSI 方法論、臨床情境對話 | [GitHub](https://github.com/lunhsiangyuan/medical-english-drills) |
+
+---
+
+### 🦞 OpenClaw — 多 Agent AI 管理平台
+
+自建的 AI Agent 管理平台，部署於 Mac Mini 24/7 運行。
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                  OpenClaw 架構                             │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│   Gateway (Port 18789)                                   │
+│   ┌──────────┐  ┌──────────┐  ┌──────────────┐          │
+│   │ Agent    │  │ Model    │  │ Channel      │          │
+│   │ Runtime  │  │ Selector │  │ Dispatcher   │          │
+│   │ (ACPX)   │  │          │  │              │          │
+│   │ 8 並行   │  │ 4 層     │  │ Telegram     │          │
+│   │ Session  │  │ Fallback │  │ LINE/Signal  │          │
+│   └──────────┘  └──────────┘  └──────────────┘          │
+│                                                          │
+│   記憶架構：SOUL / GOAL / AGENTS / MEMORY                │
+│   模型：GPT-5.4 │ Gemini │ Claude │ Ollama (local)      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+| Agent | 用途 | 模型 | 通道 |
+|-------|------|------|------|
+| Hermes (赫密士) | 主要對話 | GPT-5.4 | LINE, Signal |
+| 住院病歷 Agent | 醫療紀錄生成 | GPT-5.2 | LINE 群組 |
+| Opus Agent | 高階推理 | Claude Opus | LINE 群組 |
+| 龍蝦博士 | 臨床決策 | GPT-5.2 | LINE 群組 |
+
+→ [詳細說明](projects/06-openclaw.md)
 
 ---
 
