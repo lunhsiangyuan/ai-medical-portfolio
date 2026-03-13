@@ -238,10 +238,11 @@ Self-built AI Agent management platform deployed on Mac Mini, running 24/7. This
 │   │ Agent    │  │ Model    │  │ Channel      │          │
 │   │ Runtime  │  │ Selector │  │ Dispatcher   │          │
 │   │ (ACPX)   │  │          │  │              │          │
-│   │ 8 Conc.  │  │ 4-Layer  │  │ Telegram     │          │
-│   │ Sessions │  │ Fallback │  │ LINE/Signal  │          │
+│   │ 8 Conc.  │  │ 4-Layer  │  │ LINE         │          │
+│   │ Sessions │  │ Fallback │  │ Signal / TG  │          │
 │   └──────────┘  └──────────┘  └──────────────┘          │
 │                                                          │
+│   Memory: SOUL / GOAL / AGENTS / MEMORY                  │
 │   Memory: SOUL / GOAL / AGENTS / MEMORY                  │
 │   Models: GPT-5.4 │ Gemini │ Claude │ Ollama (local)    │
 │                                                          │

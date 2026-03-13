@@ -234,8 +234,8 @@ AI 在法規文本分析的跨領域應用：
 │   │ Agent    │  │ Model    │  │ Channel      │          │
 │   │ Runtime  │  │ Selector │  │ Dispatcher   │          │
 │   │ (ACPX)   │  │          │  │              │          │
-│   │ 8 並行   │  │ 4 層     │  │ Telegram     │          │
-│   │ Session  │  │ Fallback │  │ LINE/Signal  │          │
+│   │ 8 並行   │  │ 4 層     │  │ LINE         │          │
+│   │ Session  │  │ Fallback │  │ Signal / TG  │          │
 │   └──────────┘  └──────────┘  └──────────────┘          │
 │                                                          │
 │   記憶架構：SOUL / GOAL / AGENTS / MEMORY                │
