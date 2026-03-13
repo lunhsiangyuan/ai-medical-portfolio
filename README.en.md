@@ -217,7 +217,10 @@ All AI-assisted from design to deployment.
 |--------|---------------------|------|
 | Telehealth Platform | Stateless architecture (zero PHI storage), HIPAA-compliant, trilingual i18n | [Live](https://telehealth-yuanuro.vercel.app) |
 | Physician Website + AI Chatbot | Gemini Flash powered, Telegram real-time alerts, 7-layer security | [Live](https://dr-website-react.vercel.app) |
-| Middletown City Revitalization | 13 pages, trilingual (EN/ZH/JA), multi-audience | [Live](https://reviving-middletown-ny.vercel.app) ｜ [GitHub](https://github.com/lunhsiangyuan/reviving-hudson-valley) |
+| Middletown City Revitalization | 13 pages, trilingual (EN/ZH/JA), multi-audience | [Live](https://reviving-middletown-ny.vercel.app) |
+| Hudson Valley Investment Analysis | Regional economic data visualization | [Live](https://hudsonvalley-investment.vercel.app) |
+| NAA Homeschool Outreach | Homeschool education outreach site | [Live](https://naa-homeschool-outreach.vercel.app) |
+| NAA Spring Recital | Spring recital RSVP system | [Live](https://naa-spring-recital.vercel.app) |
 | TaiwanWay Restaurant | Restaurant website | [Live](https://taiwanway.vercel.app) |
 | Bloomberg-style Financial Terminal | 72 modules, 2,844 tests, Bun + TypeScript | [GitHub](https://github.com/lunhsiangyuan/fin-terminal) |
 | Pixel Office Dashboard | Agent Team real-time animated monitoring | [GitHub](https://github.com/lunhsiangyuan/agent-monitor) |
