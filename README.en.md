@@ -8,6 +8,22 @@ Assistant Professor (Ministry of Education Certified)
 
 Specialties: Da Vinci Robotic Surgery, Urologic Oncology, Minimally Invasive Surgery, AI Medical System Development
 
+## Table of Contents
+
+- [My AI Journey](#my-ai-journey)
+- [Key Metrics](#key-metrics)
+- [Capabilities](#capabilities)
+  - [🔬 Research Acceleration](#-research-acceleration--ai-agent-team-collaboration)
+  - [🎓 Teaching Automation](#-teaching-automation)
+  - [🏥 Clinical AI Tools](#-clinical-ai-tools)
+  - [📊 Data Analytics](#-data-analytics--operations-automation)
+  - [📜 US Medical Regulatory Research](#-us-medical-regulatory-research)
+  - [🌐 Deployed Web Systems](#-deployed-web-systems)
+  - [🦞 OpenClaw](#-openclaw--multi-agent-ai-management-platform)
+  - [🤖 AI Infrastructure (PAI)](#-ai-infrastructure-pai)
+- [Presentations](#presentations)
+- [Cooperation Proposal](#cooperation-proposal)
+
 ---
 
 ## My AI Journey
