@@ -81,10 +81,6 @@ Currently maintaining **60+ custom AI Skills** spanning academic research, clini
 │  • Female BOO Machine Learning Diagnosis          AUC 0.839       │
 │    525 cases, 49 features, Two-Stage Cascaded Model                │
 │                                                                    │
-│  • PI-RADS Report AI Extraction — Three World Firsts               │
-│    First Chinese PI-RADS extraction / First urology Claude test    │
-│    First 8-field structured extraction                             │
-│                                                                    │
 │  • KCNJ5 Meta-analysis                                            │
 │    12,456 articles → AI auto-screened to 13                        │
 │                                                                    │

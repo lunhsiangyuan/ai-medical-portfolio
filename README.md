@@ -78,10 +78,6 @@
 │  • Female BOO 機器學習診斷模型                  AUC 0.839          │
 │    525 例、49 特徵、Two-Stage Cascaded Model                       │
 │                                                                    │
-│  • PI-RADS 報告 AI 擷取 — 三項全球首次                             │
-│    首篇中文 PI-RADS 擷取 / 首次泌尿科測試 Claude                   │
-│    首次 8 欄位結構化擷取                                           │
-│                                                                    │
 │  • KCNJ5 Meta-analysis                                            │
 │    12,456 篇文獻 → AI 自動篩選至 13 篇                            │
 │                                                                    │
