@@ -19,7 +19,7 @@ Specialties: Da Vinci Robotic Surgery, Urologic Oncology, Minimally Invasive Sur
   - [🎓 Teaching Automation](#-teaching-automation)
   - [🏥 Clinical AI Tools](#-clinical-ai-tools)
   - [📊 Data Analytics](#-data-analytics--operations-automation)
-  - [📜 US Medical Regulatory Research](#-us-medical-regulatory-research)
+  - [📜 US Medical, Education & Financial Regulatory Research](#-us-medical-regulatory-research)
   - [🌐 Deployed Web Systems](#-deployed-web-systems)
   - [🦞 OpenClaw](#-openclaw--multi-agent-ai-management-platform)
   - [🤖 AI Infrastructure (PAI)](#-ai-infrastructure-pai)
@@ -195,7 +195,7 @@ The same AI system applied to business scenarios:
 
 ---
 
-### 📜 US Medical Regulatory Research
+### 📜 US Medical, Education & Financial Regulatory Research
 
 Cross-domain application of AI in legal text analysis:
 
