@@ -23,6 +23,7 @@ Specialties: Da Vinci Robotic Surgery, Urologic Oncology, Minimally Invasive Sur
   - [🌐 Deployed Web Systems](#-deployed-web-systems)
   - [🦞 OpenClaw](#-openclaw--multi-agent-ai-management-platform)
   - [🤖 AI Infrastructure (PAI)](#-ai-infrastructure-pai)
+  - [🔄 Agentic AI Trend: Autonomous Closed-Loop Workflow](#-agentic-ai-trend-autonomous-closed-loop-workflow)
 - [Presentations](#presentations)
 - [Cooperation Proposal](#cooperation-proposal)
 
@@ -174,7 +175,7 @@ Systems used daily in clinical practice — not proof-of-concept demos.
 |------|----------|--------|
 | OPD Note Automation | Screenshot → AI OCR → Formatted document | Documentation time -80% |
 | Smart PubMed Search | Natural language → MeSH search strategy | Search time -70% |
-| Peer Review System | 4-dimension systematic paper evaluation | Deep review |
+| Peer Review System | 4-dimension systematic evaluation; 60–70+ reviews in 18 months | O-1A level output |
 | Clinical Guidelines | Real-time NCCN/EAU guideline queries | Up-to-date recommendations |
 | Medical English Training | AI speech correction + TTS pronunciation | Daily automated practice |
 
@@ -293,6 +294,46 @@ Skills: Research (literature, statistics, manuscripts, review)
 ```
 
 → [Details](projects/05-pai-infrastructure.md)
+
+---
+
+### 🔄 Agentic AI Trend: Autonomous Closed-Loop Workflow
+
+> The AI industry is shifting from "human prompts → AI answers" to "AI plans → executes → verifies → self-corrects" (Agentic AI). I've implemented this in production:
+
+```
+┌─────────────────────────────────────────────────────┐
+│         Autonomous Closed-Loop Architecture          │
+│                                                      │
+│  Task Input                                          │
+│    ▼                                                 │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐       │
+│  │ LongChain │───▶│ Auto     │───▶│ QA Gate  │       │
+│  │ Task      │    │ Verify   │    │ Quality  │       │
+│  │ Decompose │    │ Per Step │    │ Check    │       │
+│  └──────────┘    └──────────┘    └────┬─────┘       │
+│                                       │              │
+│                       ┌───────────────┤              │
+│                       ▼               ▼              │
+│                  ❌ Fail          ✅ Pass             │
+│                  ┌──────────┐    ┌──────────┐       │
+│                  │ Ralph    │    │ Deliver  │       │
+│                  │ Loop     │    │ Results  │       │
+│                  │ Analyze  │    └──────────┘       │
+│                  │ Auto-fix │                        │
+│                  │ Re-verify┘                        │
+│                  └──────────┘                        │
+│                                                      │
+│  Safety: Circuit Breaker — auto-stop after 3 fails   │
+└─────────────────────────────────────────────────────┘
+```
+
+- **LongChain** — Auto-decompose complex tasks into structured plans with step-by-step verification
+- **Ralph Loop** — Closed-loop iteration: fail→analyze→auto-fix→re-verify until complete
+- **Auto-Verify** — Tiered validation (automated tests > script checks > AI evaluation)
+- **Real-world use** — Overnight courseware generation, batch data processing, fully automated dev+test
+
+From "human watches AI work" to "AI completes autonomously, human gives final approval"
 
 ---
 
