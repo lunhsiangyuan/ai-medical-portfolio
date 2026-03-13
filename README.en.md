@@ -10,7 +10,7 @@ Specialties: Da Vinci Robotic Surgery, Urologic Oncology, Minimally Invasive Sur
 
 ---
 
-## From PhD Thesis to Full AI Infrastructure
+## My AI Journey
 
 ```
   2020-2025        2025 Q1         2025 Q4          2026 Q1          2026 NOW
@@ -18,30 +18,30 @@ Specialties: Da Vinci Robotic Surgery, Urologic Oncology, Minimally Invasive Sur
   ▼                ▼                ▼                ▼                ▼
 
   ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌────────────┐  ┌────────────────┐
-  │ PhD      │  │ LLM in   │  │ How I    │  │ Claude Code│  │ Full AI        │
-  │ Thesis   │─▶│ Medicine │─▶│ Do It    │─▶│ + Agent    │─▶│ Infrastructure │
-  │          │  │          │  │          │  │ Teams      │  │                │
-  │ AI ×     │  │ Theory   │  │ Daily    │  │ Systematic │  │ 60+ Skills     │
-  │ Clinical │  │ Research │  │ Practice │  │ Building   │  │ Cross-domain   │
+  │ PhD      │  │ Chatbox  │  │ Agent    │  │ Agent Teams│  │ Full AI        │
+  │ Thesis   │─▶│ Chat Apps│─▶│ Implement│─▶│ + Infra    │─▶│ Infrastructure │
+  │          │  │          │  │          │  │ Development│  │                │
+  │ Med Device│  │ LLM      │  │ Daily    │  │ Multi-Agent│  │ 60+ Skills     │
+  │ LLM Stage│  │ Explore  │  │ Practice │  │ Systematic │  │ Cross-domain   │
   └──────────┘  └──────────┘  └──────────┘  └────────────┘  └────────────────┘
 
   NCKU BME        Regional Mtg     Innovation Soc   NTUH Urology      Research/Teaching
-  PhD Dissertation LLM Principles   "AI in Daily    10-Agent Collab    /Clinical/Legal
-  AI in Clinical   + Prostate Ca    Urology Practice" Research ×10      /Business
-  Medicine         Application
+  Medical Device   LLM Principles   "AI in Daily    10-Agent Collab    /Clinical/Legal
+  Training + LLM   + Prostate Ca    Urology Practice" Research ×10      /Business
+  Prostate Ca      Application
 ```
 
-### 2020–2025 — PhD: Where AI Meets Clinical Medicine
+### 2020–2025 — PhD: Biomedical Engineering Training
 
-Doctoral research at the Institute of Biomedical Engineering, National Cheng Kung University (NCKU). Dissertation: "AI Applications in Clinical Medicine." Five years of interdisciplinary research laid the theoretical foundation and hands-on expertise for building a complete AI infrastructure.
+Doctoral studies at the Institute of Biomedical Engineering, National Cheng Kung University (NCKU). Trained in medical device development. Final PhD thesis: LLM in prostate cancer staging and classification.
 
-### 2025 — From Theory to Practice
+### 2025 — From Chatbox to Agent Implementation
 
-Presented [LLM in Medicine](slides/LLM在醫學上的應用.pdf) at the Yunlin-Chiayi Urology Regional Meeting, covering Transformer architecture and prostate cancer applications. Subsequently integrated AI into daily clinical workflow: automated OPD notes, intelligent PubMed search, and literature management. Later presented [LLM - How I Do It](slides/新創醫學會-LLM-How-I-Do-It.pptx) at the Innovation in Medicine Society, sharing real-world clinical applications.
+Presented [LLM in Medicine](slides/LLM在醫學上的應用.pdf) at the Yunlin-Chiayi Urology Regional Meeting, covering Transformer architecture and prostate cancer applications. Expanded AI from chat tools to real workflows: automated OPD notes, intelligent PubMed search, and literature management. Later presented [LLM - How I Do It](slides/新創醫學會-LLM-How-I-Do-It.pptx) at the Innovation in Medicine Society, sharing agent implementation experience.
 
-### 2026 — From Tools to Systems
+### 2026 — Agent Teams & Infrastructure Development
 
-After adopting Claude Code, built a multi-Agent collaboration system. Presented results at the [NTUH Urology Department](slides/ai-agent-research-talk-final.pptx): one researcher with 10 AI Agents producing output equivalent to a full research team. Extended AI to US medical regulatory research (NYSED physician licensure, O-1A visa, FTC merger regulations), building a 48-case precedent database.
+After adopting Claude Code, built multi-Agent collaboration systems and a complete development architecture. Presented results at the [NTUH Urology Department](slides/ai-agent-research-talk-final.pptx): one researcher with 10 AI Agents producing output equivalent to a full research team. Extended AI to US medical regulatory research (NYSED physician licensure, O-1A visa, FTC merger regulations), building a 48-case precedent database.
 
 Currently maintaining **60+ custom AI Skills** spanning academic research, clinical medicine, teaching, business operations, and regulatory analysis.
 
