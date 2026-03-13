@@ -6,6 +6,8 @@
 Deputy Director, Department of Urology, National Taiwan University Hospital, Yunlin Branch
 Assistant Professor (Ministry of Education Certified)
 
+MD from National Yang-Ming University. Former attending urologist at Taipei Veterans General Hospital, Kaohsiung Veterans General Hospital, and E-Da Cancer Hospital. Trained in Da Vinci robotic surgery at Yonsei University, South Korea. Over 1,000 robotic surgery cases. Certified Senhance surgical system Proctor. PhD in Biomedical Engineering from National Cheng Kung University (2020–2025), thesis: LLM in prostate cancer staging and classification.
+
 Specialties: Da Vinci Robotic Surgery, Urologic Oncology, Minimally Invasive Surgery, AI Medical System Development
 
 ## Table of Contents
