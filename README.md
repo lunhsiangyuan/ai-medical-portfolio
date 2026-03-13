@@ -210,9 +210,10 @@ AI 在法規文本分析的跨領域應用：
 
 | 系統 | 技術亮點 | 連結 |
 |------|----------|------|
-| 遠距醫療平台 | Stateless 架構（零 PHI 儲存）、HIPAA 合規、三語 i18n | Private |
+| 遠距醫療平台 | Stateless 架構（零 PHI 儲存）、HIPAA 合規、三語 i18n | [Live](https://telehealth-yuanuro.vercel.app) |
 | 醫師個人網站 + AI Chatbot | Gemini Flash 驅動、Telegram 即時推播、7 層安全防護 | [Live](https://dr-website-react.vercel.app) |
-| Middletown 城市重建計畫 | 13 頁、三語（EN/ZH/JA）、多受眾展示 | [GitHub](https://github.com/lunhsiangyuan/reviving-hudson-valley) |
+| Middletown 城市重建計畫 | 13 頁、三語（EN/ZH/JA）、多受眾展示 | [Live](https://reviving-middletown-ny.vercel.app) ｜ [GitHub](https://github.com/lunhsiangyuan/reviving-hudson-valley) |
+| 餐廳官網 TaiwanWay | 餐廳形象網站 | [Live](https://taiwanway.vercel.app) |
 | Bloomberg 風格金融終端 | 72 模組、2,844 測試、Bun + TypeScript | [GitHub](https://github.com/lunhsiangyuan/fin-terminal) |
 | Pixel Office 監控儀表板 | Agent Team 即時動畫監控 | [GitHub](https://github.com/lunhsiangyuan/agent-monitor) |
 | 醫學英語訓練系統 | FSI 方法論、臨床情境對話 | [GitHub](https://github.com/lunhsiangyuan/medical-english-drills) |

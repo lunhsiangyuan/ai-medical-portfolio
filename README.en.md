@@ -214,9 +214,10 @@ All AI-assisted from design to deployment.
 
 | System | Technical Highlights | Link |
 |--------|---------------------|------|
-| Telehealth Platform | Stateless architecture (zero PHI storage), HIPAA-compliant, trilingual i18n | Private |
+| Telehealth Platform | Stateless architecture (zero PHI storage), HIPAA-compliant, trilingual i18n | [Live](https://telehealth-yuanuro.vercel.app) |
 | Physician Website + AI Chatbot | Gemini Flash powered, Telegram real-time alerts, 7-layer security | [Live](https://dr-website-react.vercel.app) |
-| Middletown City Revitalization | 13 pages, trilingual (EN/ZH/JA), multi-audience | [GitHub](https://github.com/lunhsiangyuan/reviving-hudson-valley) |
+| Middletown City Revitalization | 13 pages, trilingual (EN/ZH/JA), multi-audience | [Live](https://reviving-middletown-ny.vercel.app) ｜ [GitHub](https://github.com/lunhsiangyuan/reviving-hudson-valley) |
+| TaiwanWay Restaurant | Restaurant website | [Live](https://taiwanway.vercel.app) |
 | Bloomberg-style Financial Terminal | 72 modules, 2,844 tests, Bun + TypeScript | [GitHub](https://github.com/lunhsiangyuan/fin-terminal) |
 | Pixel Office Dashboard | Agent Team real-time animated monitoring | [GitHub](https://github.com/lunhsiangyuan/agent-monitor) |
 | Medical English Training | FSI methodology, clinical scenario drills | [GitHub](https://github.com/lunhsiangyuan/medical-english-drills) |
