@@ -41,11 +41,11 @@ Presented [LLM in Medicine](slides/LLM在醫學上的應用.pdf) at the Yunlin-C
 
 ### 2026 — Agent Teams & Infrastructure Development
 
-After adopting Claude Code, built multi-Agent collaboration systems and a complete development architecture. Presented results at the [NTUH Urology Department](slides/ai-agent-research-talk-final.pptx): one researcher with 10 AI Agents producing output equivalent to a full research team. Extended AI to US medical regulatory research (NYSED physician licensure, O-1A visa, FTC merger regulations), building a 48-case precedent database.
+After adopting Claude Code, built multi-Agent collaboration systems and a complete development architecture with Agent Teams. Presented results in a [special talk](slides/ai-agent-research-talk-final.pptx): one researcher with 10 AI Agents producing output equivalent to a full research team. Expanded across clinical tools, teaching automation, business operations, and US medical regulatory research.
 
 Currently maintaining **60+ custom AI Skills** spanning academic research, clinical medicine, teaching, business operations, and regulatory analysis.
 
-> **External Validation:** Anthropic's "Built with Opus 4.6" Claude Code Hackathon (Feb 2026, 13,000 applicants, 500 selected) was won by four non-engineers — a lawyer, a cardiologist, a musician, and a civil engineer. This confirms the trend: **domain experts with AI tools can build solutions that surpass traditional developers.** This is exactly the philosophy behind my PAI — a urologist building AI infrastructure for medicine.
+> **External Validation:** Anthropic's ["Built with Opus 4.6" Claude Code Hackathon](https://www.reddit.com/r/ClaudeAI/comments/1rabi88/built_with_opus_46_a_claude_code_hackathon/) (Feb 2026, 13,000 applicants, 500 selected) was won by four non-engineers — [a lawyer, a cardiologist, a musician, and a civil engineer](https://www.digitaldigging.org/p/a-lawyer-a-road-inspector-and-a-cardiologist). This confirms the trend: **domain experts with AI tools can build solutions that surpass traditional developers.**
 
 ---
 

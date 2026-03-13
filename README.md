@@ -39,11 +39,11 @@
 
 ### 2026 — Agent Teams 與架構開發
 
-導入 Claude Code 後，建構了多 Agent 協作系統與完整開發架構。在[臺大泌尿部晨會](slides/ai-agent-research-talk-final.pptx)展示成果：一位研究者搭配 10 個 AI Agent，產出等同完整研究團隊。同時將 AI 擴展至美國醫療法規研究（NYSED 醫師執照、O-1A 簽證、FTC 合併法規），建立 48 筆先例資料庫。
+導入 Claude Code 後，搭配 Agent Teams 建構多 Agent 協作系統與完整開發架構。在一場 [special talk](slides/ai-agent-research-talk-final.pptx) 中展示成果：一位研究者搭配 10 個 AI Agent，產出等同完整研究團隊。同時擴展至臨床工具、教學自動化、商業營運、美國醫療法規研究等各個面向。
 
 目前已建構 **60+ 個客製化 AI Skills**，涵蓋學術研究、臨床醫療、教學、商業營運、法規分析。
 
-> **外部驗證：** Anthropic 於 2026 年 2 月舉辦 "Built with Opus 4.6" Claude Code Hackathon（13,000 人報名、500 人入選），五位得獎者中有四位是非工程師——律師、心臟科醫師、音樂人、道路工程師。這印證了一個趨勢：**具備領域專業的人，透過 AI 工具可以建構出超越傳統開發者的解決方案。** 這正是我作為泌尿科醫師建構 PAI 的核心理念。
+> **外部驗證：** Anthropic 於 2026 年 2 月舉辦 ["Built with Opus 4.6" Claude Code Hackathon](https://www.reddit.com/r/ClaudeAI/comments/1rabi88/built_with_opus_46_a_claude_code_hackathon/)（13,000 人報名、500 人入選），五位得獎者中有四位是非工程師——[律師、心臟科醫師、音樂人、道路工程師](https://www.digitaldigging.org/p/a-lawyer-a-road-inspector-and-a-cardiologist)。這印證了一個趨勢：**具備領域專業的人，透過 AI 工具可以建構出超越傳統開發者的解決方案。**
 
 ---
 
