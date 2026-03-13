@@ -87,7 +87,7 @@
 - 🔊 AI 語音合成 (TTS) 生成英文旁白
 - 🎬 合成完整教學影片
 
-**實際案例**：[Metastatic Bladder Cancer 2025 教學影片](slides/) — 25 張投影片 + 40 分鐘旁白，從零到完成只需 2 小時。
+**實際案例**：[Metastatic Bladder Cancer 2025](slides/metastatic-bladder-cancer-2025-v3.pptx) — 25 張投影片 + 40 分鐘英文旁白影片，從零到完成只需 2 小時。
 
 📎 [詳細說明](projects/02-lecture-producer.md)
 
@@ -171,6 +171,7 @@
 | [AI Agent 輔助臨床研究](slides/ai-agent-research-talk-final.pptx) | 2026/02 臺大泌尿部 | 多 Agent 研究協作系統 |
 | [AI Research Productivity Multiplied](slides/AI_Research_Productivity_Multiplied.pptx) | 2026 | 研究產能倍增 |
 | [The Hybrid Medical Workforce](slides/The_Hybrid_Medical_Workforce.pptx) | 2026 | 人機混合醫療工作力 |
+| [Metastatic Bladder Cancer 2025](slides/metastatic-bladder-cancer-2025-v3.pptx) | 2026/03 住院醫師教學 | AI 全自動生成的教學投影片 |
 | [LLM 在醫學上的應用](slides/LLM在醫學上的應用.pdf) | 2025/03 雲嘉季會 | LLM 原理 + 攝護腺癌應用 |
 
 ---
